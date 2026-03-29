@@ -2,7 +2,7 @@
 
 **Zenith Expense** is a premium, automated expense reimbursement system designed for modern enterprises. Built during the **Odoo Hackathon**, it streamlines the process of submitting, tracking, and approving corporate expenses using cutting-edge OCR and AI-driven analysis.
 
-![Zenith Logo](frontend/public/vite.svg)
+![Zenith Logo](assets/logo.png)
 
 ## ✨ Key Features
 
@@ -52,9 +52,12 @@
 
 ## 📸 Screenshots
 
-| Dashboard | Team Management |
+| Dashboard(Admin) | Team Management(Admin) |
 |-----------|-----------------|
-| ![Dashboard](https://via.placeholder.com/400x250?text=Dashboard) | ![Users](https://via.placeholder.com/400x250?text=Team+Management) |
+|  ![Dashboard](assets/dashboard_new.png) | ![Users](assets/user.png) |
+| Dashboard(Manger) | Expenses (Emp) |
+|  ![Dashboard](assets/manger.png) | ![Users](assets/emp.png) |
+
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
